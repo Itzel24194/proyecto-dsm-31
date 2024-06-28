@@ -3,12 +3,12 @@ namespace App\Controller;
 
 
 use App\Core\Database;
-use App\Models\User
+use App\Models\User;
 
 class HomeController{
-public function __construct(){
+    public function __construct(){
 
-}
+    }
     private $db;
 
     public function __construct(){
